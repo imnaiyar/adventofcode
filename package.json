@@ -1,0 +1,26 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "My advent of code solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnaiyar/adventofcode.git"
+  },
+  "keywords": [
+    "aoc"
+  ],
+  "author": "NyR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imnaiyar/adventofcode/issues"
+  },
+  "homepage": "https://github.com/imnaiyar/adventofcode#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
